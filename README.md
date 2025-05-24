@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haunter-coder
 - 👀 I’m interested in AI, Coding and Cyber Security 
-- 🌱 I’m currently learning Python, Javascript, C, C++, CSS, HTML, SQL, Frontend, and Backend development
+- 🌱 I've already learned Python and now I’m currently learning Javascript, C, C++, CSS, HTML, SQL, Frontend, and Backend development. 
 - 💞️ I’m looking to collaborate on any projects that will help develop my coding skills and knowledge base
 - 📫 How to reach me Email at Booghost244@gmail.com
 - 😄 Pronouns: He/Him
